@@ -1,3 +1,6 @@
+//RM555174 - Felipe Menezes Prometti
+//RM558876 - Samuel Damasceno Silva
+//Versão do java usada foi a 21
 package com.fiap.coquetelapi.coquetel_api_cliente;
 
 import com.fiap.coquetelapi.coquetel_api_cliente.json.EscritaJson;

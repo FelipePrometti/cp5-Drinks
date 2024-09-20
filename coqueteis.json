@@ -1,18 +1,10 @@
 [
   {
-    "idDrink": "17196",
-    "strDrink": "Cosmopolitan",
-    "strInstructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.",
-    "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg",
-    "strCategory": "Cocktail",
-    "strAlcoholic": "Alcoholic"
-  },
-  {
-    "idDrink": "14133",
-    "strDrink": "Cosmopolitan Martini",
-    "strInstructions": "Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.",
-    "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg",
-    "strCategory": "Cocktail",
+    "idDrink": "11113",
+    "strDrink": "Bloody Mary",
+    "strInstructions": "Stirring gently, pour all ingredients into highball glass. Garnish.",
+    "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/t6caa21582485702.jpg",
+    "strCategory": "Ordinary Drink",
     "strAlcoholic": "Alcoholic"
   }
 ]
