@@ -8,6 +8,15 @@ public class Coquetel {
     private String strCategory;
     private String strAlcoholic;
 
+    public Coquetel(String idDrink, String strDrink, String strInstructions, String strDrinkThumb, String strCategory, String strAlcoholic) {
+        this.idDrink = idDrink;
+        this.strDrink = strDrink;
+        this.strInstructions = strInstructions;
+        this.strDrinkThumb = strDrinkThumb;
+        this.strCategory = strCategory;
+        this.strAlcoholic = strAlcoholic;
+    }
+
     public String getIdDrink() {
         return idDrink;
     }
